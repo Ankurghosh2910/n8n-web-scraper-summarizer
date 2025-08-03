@@ -8,6 +8,7 @@ This workflow automates the process of finding and summarizing online content. I
 4. Condenses the content into 3–5 key bullet points with Google Gemini AI.
 5. Stores the summary in Google Drive.
 
+<img width="2046" height="867" alt="Screenshot from 2025-08-04 01-17-32" src="https://github.com/user-attachments/assets/edd82558-2c44-464a-8216-643a244a9151" />
 
 The image above shows the complete n8n workflow with all connected nodes.
 ---
